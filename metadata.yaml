@@ -1,0 +1,31 @@
+_repo: The-Automobile-Girls-at-Palm-Beach--13-Or-Proving-Their-Mettle-Under-Southern-Skies_38123
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crane, Laura Dent
+    gutenberg_agent_id: '4425'
+    url: http://www.gutenberg.org/2009/agents/4425
+description: ''
+gutenberg_issued: '2011-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38123'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Palm Beach (Fla.) -- Juvenile fiction'
+- !lcsh 'Girls -- Societies and clubs -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Swindlers and swindling -- Juvenile fiction'
+- !lcsh 'Vacations -- Juvenile fiction'
+- !lcsh 'Automobile travel -- Juvenile fiction'
+- !lcsh 'Princesses -- Juvenile fiction'
+title: The Automobile Girls at Palm Beach; Or, Proving Their Mettle Under Southern
+  Skies
+url: http://www.gutenberg.org/ebooks/38123
