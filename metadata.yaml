@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '4425'
     url: http://www.gutenberg.org/2009/agents/4425
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38123#The-Automobile-Girls-at-Palm-Beach--13-Or-Proving-Their-Mettle-Under-Southern-Skies
 gutenberg_issued: '2011-11-24'
 gutenberg_type: Text
 identifiers:
